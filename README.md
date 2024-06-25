@@ -15,7 +15,7 @@ Before running this application, ensure you have the following:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/GraphEmailSender.git
+git clone https://github.com/mario-galindo/graph-api-email-sender.git
 cd GraphEmailSender
 ```
 ### 2. Configure the Application
